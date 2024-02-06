@@ -4,11 +4,15 @@ AI-Driven Customer Review Analytics of Beauty Industry with OpenAI API and Spark
 Big thank to the wonderful team: 
 ### Technical
 Xingyue Wang <wan01786@umn.edu>
+
 Praveen Kumar G <govin098@umn.edu>
+
 Paul Agbaje <agbaj004@umn.edu>
 ### Visualization
 Claire Tsao <tsao0022@umn.edu>
+
 Anurag Wadhwa <wadhw052@umn.edu>
+
 Yumian Ding <ding0416@umn.edu>
 
 # Executive Summary
