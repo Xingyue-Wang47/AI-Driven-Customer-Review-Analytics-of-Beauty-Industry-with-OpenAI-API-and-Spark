@@ -1,4 +1,16 @@
-# MSBA-2023-BDA-TrendsMktPlace-Team2
+AI-Driven Customer Review Analytics of Beauty Industry with OpenAI API and Spark
+
+# Contributors
+Big thank to the wonderful team: 
+### Technical
+Xingyue Wang <wan01786@umn.edu>
+Praveen Kumar G <govin098@umn.edu>
+Paul Agbaje <agbaj004@umn.edu>
+### Visualization
+Claire Tsao <tsao0022@umn.edu>
+Anurag Wadhwa <wadhw052@umn.edu>
+Yumian Ding <ding0416@umn.edu>
+
 # Executive Summary
 ### This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.
 
@@ -21,5 +33,5 @@ We leverage Databricks, PySpark, and OpenAI APIs to scalably conduct unsupervise
 ### 5. Can be easily extended and transformed to many industries, as long as there is available review data
 ### 6. Leads to a comprehensive dashboard that provides analysis on different levels (category/subcategory/product)
 
-### Link to the dataset: https://www.kaggle.com/datasets/jithinanievarghese/cosmetics-and-beauty-products-reviews-top-brands
+### Link to the toy dataset: https://www.kaggle.com/datasets/jithinanievarghese/cosmetics-and-beauty-products-reviews-top-brands
 ### Link to the project video: https://youtu.be/yFQWXn-usTs
